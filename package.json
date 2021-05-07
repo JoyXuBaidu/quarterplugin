@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "cross-env NODE_ENV=production webpack --progress"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoyXuBaidu/quarterplugin.git"
+  },
   "keywords": [
-    "webpack"
+    "vue", "plugin", "quarter"
   ],
   "author": "xhj",
   "license": "ISC",
