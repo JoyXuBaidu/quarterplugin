@@ -1,0 +1,24 @@
+{
+  "name": "vue-quater-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for generating quater data",
+  "main": "dist/quarterPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cross-env NODE_ENV=production webpack --progress"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "xhj",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "babel-loader": "^8.2.2",
+    "cross-env": "^7.0.3",
+    "webpack": "^5.36.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  }
+}
