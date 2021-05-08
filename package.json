@@ -1,6 +1,6 @@
 {
   "name": "vue-quarter-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A plugin for generating quater data",
   "main": "dist/quarterPlugin.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "url": "https://github.com/JoyXuBaidu/quarterplugin.git"
   },
   "keywords": [
-    "vue", "plugin", "quarter"
+    "vue",
+    "plugin",
+    "quarter"
   ],
   "author": "xhj",
   "license": "ISC",
