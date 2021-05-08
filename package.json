@@ -1,6 +1,6 @@
 {
-  "name": "vue-quater-plugin",
-  "version": "1.0.0",
+  "name": "vue-quarter-plugin",
+  "version": "0.1.0",
   "description": "A plugin for generating quater data",
   "main": "dist/quarterPlugin.js",
   "scripts": {
