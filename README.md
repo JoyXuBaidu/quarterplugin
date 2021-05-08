@@ -21,7 +21,7 @@ These three values are stored on three attributes on Vue's prototype: *$quarterY
 npm i vue-quarter-plugin
 
 ```
-main.js:
+// main.js:
 import quarterPlugin from 'vue-quarter-plugin'
 
 Vue.use(quarterPlugin)
